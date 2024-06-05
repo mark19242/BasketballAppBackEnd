@@ -1,3 +1,5 @@
+gem 'devise', '~> 4.8.1'  # Replace with the version you want to use
+
 source "https://rubygems.org"
 
 ruby "3.2.0"
