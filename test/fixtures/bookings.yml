@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  training_session: one
+  date: 2024-06-13 15:47:30
+
+two:
+  user: two
+  training_session: two
+  date: 2024-06-13 15:47:30
